@@ -1,0 +1,1 @@
+{"ast":null,"code":"const ModalTambahTamu = () => {\n  return;\n};","map":{"version":3,"sources":["D:/next-app/Modals/Tambahtamu.js"],"names":["ModalTambahTamu"],"mappings":"AAAA,MAAMA,eAAe,GAAE,MAAI;AACvB;AACH,CAFD","sourcesContent":["const ModalTambahTamu =()=>{\r\n    return\r\n}"]},"metadata":{},"sourceType":"script"}
